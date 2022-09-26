@@ -18,6 +18,12 @@ public class DemoApplication {
 
 		System.out.println("some other guy updated this file with different branch 11111111");
 		System.out.println("divya changes");
+<<<<<<< Updated upstream
+=======
+		System.out.println("divya changes11111111");
+		System.out.println("divya 22222");
+		
+>>>>>>> Stashed changes
 
 		
 	}
