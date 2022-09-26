@@ -11,6 +11,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("WELCOME TO SPRINGBOOT");
 		System.out.println("WELCOME TO SPRINGBOOT111");
+		System.out.println("WELCOME TO SPRINGBOOT111");
 	}
 
 }
